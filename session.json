@@ -1,0 +1,97 @@
+{
+  "cookies": [
+    {
+      "name": "wd",
+      "value": "1280x720",
+      "domain": ".messenger.com",
+      "path": "/",
+      "expires": 1718800411,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datr",
+      "value": "5pJpZiTRtk3Qb4dDQNWloyA3",
+      "domain": ".messenger.com",
+      "path": "/",
+      "expires": 1752754913.913308,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpr",
+      "value": "1.0000000149011612",
+      "domain": ".messenger.com",
+      "path": "/",
+      "expires": 1718800411,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sb",
+      "value": "HpRpZn_g4G68C-bFOWlYVPMB",
+      "domain": ".messenger.com",
+      "path": "/",
+      "expires": 1752755226.74204,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c_user",
+      "value": "100006793754039",
+      "domain": ".messenger.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "xs",
+      "value": "16%3ADRp7nEKklFX8EA%3A2%3A1718195230%3A-1%3A5263",
+      "domain": ".messenger.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.messenger.com",
+      "localStorage": [
+        { "name": "maw_eb_has_restored_in_current_session", "value": "true" },
+        { "name": "armadillo_msgr_mutex", "value": "z4b66x" },
+        {
+          "name": "bdz_playback_state",
+          "value": "{\"session_key\":\"lwxio7yp\",\"buffer_length\":60}"
+        },
+        {
+          "name": "mw_encrypted_backups_restore_upsell_first_impression_time_key",
+          "value": "1718195227628"
+        },
+        {
+          "name": "maw_eb_has_restored_in_current_session_temp",
+          "value": "true"
+        },
+        { "name": "mw_worker_ready", "value": "1718195614700" },
+        { "name": "Session", "value": "7c8oo5:1718195832435" },
+        { "name": "hb_timestamp", "value": "1718195257701" },
+        { "name": "__MWCMInboxLeftRailSidebar.isCollapsed__", "value": "true" },
+        { "name": "armadillo_msgr_local_takeover", "value": "z4b66x" },
+        { "name": "ares_last_signal_flush", "value": "1717331227729" },
+        { "name": "banzai:last_storage_flush", "value": "1718195229979.7" },
+        { "name": "signal_flush_timestamp", "value": "1718195227718" },
+        {
+          "name": "mw_encrypted_backups_remember_browser_consent",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}
